@@ -1,2 +1,1 @@
-lyryblog.github.io
-g.lyrylo.com
+lyryblog.github.io = g.lyrylo.com
