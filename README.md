@@ -1,1 +1,1 @@
-lyryblog.github.io = g.lyrylo.com
+Hello!Someone who's from the Internet!
